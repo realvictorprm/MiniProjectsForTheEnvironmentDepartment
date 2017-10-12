@@ -1,0 +1,43 @@
+{
+   "Natur und Landschaft": [
+    "Schutzgebiete" ,
+    "Biotope nach NatSchG und LWaldG" ,
+    "FFH-Mähwiesen" ,
+    "FFH-Gebiete" ,
+    "Landschaftsschutzgebiete" ,
+    "Naturschutzgebiete" ,
+    "Naturdenkmale, Einzelgebilde (END)" ,
+    "Schutzgebietsstatistik Kreise" ,
+    "Flächenhafte Naturdenkmale (FND)" ,
+    "Vogelschutzgebiete (SPA)" ,
+    "Schutzgebietsstatistik Regierungsbezirke" ,
+    "Waldschutzgebiete" ,
+    "Lebensraumtyp Erfassungseinheit" ,
+    "Nationalpark" ,
+    "Naturparks"
+    ],
+   "Wasser": [
+    "Grundwasserstand (Meter über NN)" ,
+    "Wasserschutzgebiete" ,
+    "Grundwasserstand (m über NN)" ,
+    "Quellschüttung (l/s)"
+    ],
+   "Luft": [
+    "Übersicht Messreihen Luft" ,
+    "Stationsvergleich" ,
+    "Komponentenvergleich" ,
+    "Stationsinformationen" ,
+    "Überschreitungshäufigkeit"
+    ],
+   "Abfall": [
+    "Abfallbilanz absolut" ,
+    "Abfallbilanz pro Kopf"
+    ],
+   "Radioaktivität": [
+    "Ortsdosisleistung - Zeitreihen" ,
+    "Aktivitätskonzentration Radioaerosole"
+    ],
+   "Klima und regenerative Energien": [
+    "Übersicht Messreihen Wind"
+    ]
+}
